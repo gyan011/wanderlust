@@ -15,7 +15,7 @@ Wanderlust is a web application designed to inspire, plan, and document travel a
 - 👫 Social features to share trips with friends or the public
 
 ## 🛠 Tech Stack
-- Frontend: React / CSS / Axios
+- Frontend:  CSS / Axios
 
 - Backend: Node.js / Express 
 
