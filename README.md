@@ -1,53 +1,53 @@
 🌍 Wanderlust
 Wanderlust is a web application designed to inspire, plan, and document travel adventures. Whether you're a globe-trotter or a weekend explorer, Wanderlust helps you discover new destinations, track your trips, and share experiences with the world.
 
-🚀 Features
-🌐 Explore destinations around the world with rich descriptions and imagery
+## 🚀 Features
+-- 🌐 Explore destinations around the world with rich descriptions and imagery
 
-📍 Save your favorite spots and build personalized itineraries
+-- 📍 Save your favorite spots and build personalized itineraries
 
-🧭 GPS integration for real-time location tracking
+-- 🧭 GPS integration for real-time location tracking
 
-📸 Upload and organize travel memories in a visual journal
+-- 📸 Upload and organize travel memories in a visual journal
 
-🧳 Packing list generator and travel checklist
+-- 🧳 Packing list generator and travel checklist
 
-👫 Social features to share trips with friends or the public
+-- 👫 Social features to share trips with friends or the public
 
-🛠 Tech Stack
-Frontend: React / CSS / 
+## 🛠 Tech Stack
+-- Frontend: React / CSS / 
 
-Backend: Node.js / Express 
+-- Backend: Node.js / Express 
 
-Database: MongoDB / PostgreSQL 
+-- Database: MongoDB / PostgreSQL 
 
-APIs: Google Maps API
+-- APIs: Google Maps API
 
 
-📦 Installation
-bash
-Copy
-Edit
-# Clone the repository
-git clone https://github.com/your-username/wanderlust.git
+# 📦 Installation
 
-# Navigate to the project directory
+
+## Clone the repository
+git clone https://github.com/gyan011/wanderlust.git
+
+## Navigate to the project directory
 cd wanderlust
 
-# Install dependencies
+## Install dependencies
 npm install
 
-# Start the development server
+## Start the development server
 npm run dev
+
+
 🔐 Environment Variables
 Create a .env file in the root directory and include:
 
-ini
-Copy
-Edit
 VITE_API_KEY=your_api_key
 VITE_FIREBASE_URL=your_firebase_url
 (Replace with your actual keys)
+
+
 
 📸 Screenshots
 
